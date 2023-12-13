@@ -86,8 +86,23 @@ In this section, this is where we show the output images using the face recognit
 ![image](https://github.com/ralphgrm/Finals/assets/134179620/450959fb-9050-411f-85a7-6e0b59140516)
 ![image](https://github.com/ralphgrm/Finals/assets/134179620/51f0caa3-2845-4f02-a8ff-a828e59b15db)
 ![image](https://github.com/ralphgrm/Finals/assets/134179620/99c15c68-419a-4738-aef9-a1557056d30b)
+![image](https://github.com/ralphgrm/Finals/assets/134179620/665dccfd-5aea-47fe-9dd8-df440abe2fa9)
+![image](https://github.com/ralphgrm/Finals/assets/134179620/be3605fe-8b6a-4213-b769-242e85ac0c62)
+![image](https://github.com/ralphgrm/Finals/assets/134179620/edb2b791-7dc7-4482-9a3c-0ea7eec622d1)
+![image](https://github.com/ralphgrm/Finals/assets/134179620/316e2e66-10b6-430e-a67a-5681806a6fc0)
 
 </div>
 
+# Known Faces mixed with Unknown Faces
+
+<div align="justify">
+
+In this section, this is where we show the output images using the face recognition library. The Known and Unknown faces of the people are both compiled here to better show the capabilities of the face recognition.
+
+<div align="center">
+  
+![image](https://github.com/ralphgrm/Finals/assets/134179620/665e118c-1028-43dd-b5d7-821632baed00)
+
+</div>
 
 
